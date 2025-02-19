@@ -24,7 +24,7 @@ const Navbar = () => {
         <Link to="allScholarship">All Scholarship</Link>
       </li>
       <li>
-        <Link to="dashboard/myApplication">Dashboard</Link>
+        <Link to="dashboard/myApplication">dashboard</Link>
       </li>
     </>
   );
