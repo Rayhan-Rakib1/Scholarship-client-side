@@ -1,0 +1,431 @@
+[
+    {
+      "university_name": "The state  University",
+      "university_logo": "https://i.ibb.co.com/ZmpYT1h/SUNY-Education-Logo-Design-1024x536.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "USA",
+        "city": "New York",
+        "address": "123 Example St, New York, NY"
+      },
+      "application_deadline": "2025-03-15",
+      "subject_name": "Computer Science",
+      "scholarship_description": "This scholarship aims to assist bright students pursuing a degree in Computer Science. It covers full tuition and offers additional support for research opportunities.",
+      "stipend": "1000 USD per month",
+      "post_date": "2025-01-26",
+      "service_charge": "50 USD",
+      "application_fees": "100 USD"
+    },
+    {
+      "university_name": "New york University",
+      "university_logo": "https://i.ibb.co.com/XpSdTQn/5.webp",
+      "scholarship_category": "Graduate",
+      "university_location": {
+        "country": "UK",
+        "city": "London",
+        "address": "456 Global Rd, London, UK"
+      },
+      "application_deadline": "2025-04-10",
+      "subject_name": "Business Administration",
+      "scholarship_description": "This scholarship is for postgraduate students in Business Administration. It includes full tuition and living expenses.",
+      "stipend": "1500 GBP per month",
+      "post_date": "2025-01-20",
+      "service_charge": "75 GBP",
+      "application_fees": "120 GBP"
+    },
+    {
+      "university_name": "Johns Hopkins university ",
+      "university_logo": "https://i.ibb.co.com/M5cm1cZ/4.webp",
+      "scholarship_category": "PhD",
+      "university_location": {
+        "country": "Canada",
+        "city": "Toronto",
+        "address": "789 Tech Dr, Toronto, ON"
+      },
+      "application_deadline": "2025-02-28",
+      "subject_name": "Engineering",
+      "scholarship_description": "A prestigious PhD scholarship in the field of Engineering. Includes research grants and a competitive stipend.",
+      "stipend": "2000 CAD per month",
+      "post_date": "2025-01-18",
+      "service_charge": "100 CAD",
+      "application_fees": "150 CAD"
+    },
+    {
+      "university_name": "massachusetts institute of technology",
+      "university_logo": "https://i.ibb.co.com/XVvsNKV/3.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Australia",
+        "city": "Sydney",
+        "address": "101 Elite Ave, Sydney, NSW"
+      },
+      "application_deadline": "2025-03-30",
+      "subject_name": "Environmental Science",
+      "scholarship_description": "Scholarship available for Environmental Science students, covering tuition and offering fieldwork opportunities.",
+      "stipend": "800 AUD per month",
+      "post_date": "2025-01-22",
+      "service_charge": "60 AUD",
+      "application_fees": "110 AUD"
+    },
+    {
+      "university_name": "cornell university University",
+      "university_logo": "https://i.ibb.co.com/ZN1Ywsv/1.webp",
+      "scholarship_category": "Masters",
+      "university_location": {
+        "country": "Germany",
+        "city": "Berlin",
+        "address": "202 Innovation Blvd, Berlin, DE"
+      },
+      "application_deadline": "2025-05-01",
+      "subject_name": "Data Science",
+      "scholarship_description": "Master's scholarship for Data Science students with a focus on AI research. Includes full tuition and a research stipend.",
+      "stipend": "1800 EUR per month",
+      "post_date": "2025-01-19",
+      "service_charge": "85 EUR",
+      "application_fees": "140 EUR"
+    },
+    {
+      "university_name": " University of Central Florida",
+      "university_logo": "https://i.ibb.co.com/SKg6k8K/University-of-Central-Florida-Education-Logo-Design-1024x536.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "303 Future St, Tokyo, JP"
+      },
+      "application_deadline": "2025-06-15",
+      "subject_name": "Mechanical Engineering",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Mechanical Engineering. Covers all tuition fees.",
+      "stipend": "1200 JPY per month",
+      "post_date": "2025-01-25",
+      "service_charge": "70 JPY",
+      "application_fees": "130 JPY"
+    },
+    {
+      "university_name": "University of Central Florida",
+      "university_logo": "https://i.ibb.co.com/SKg6k8K/University-of-Central-Florida-Education-Logo-Design-1024x536.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "303 Future St, Tokyo, JP"
+      },
+      "application_deadline": "2025-06-15",
+      "subject_name": "Mechanical Engineering",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Mechanical Engineering. Covers all tuition fees.",
+      "stipend": "1200 JPY per month",
+      "post_date": "2025-01-25",
+      "service_charge": "70 JPY",
+      "application_fees": "130 JPY"
+    },
+    {
+      "university_name": "University of Tokyo",
+      "university_logo": "https://i.ibb.co/9n3MKng/University-of-Tokyo-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "7-3-1 Hongo, Bunkyo-ku, Tokyo"
+      },
+      "application_deadline": "2025-07-01",
+      "subject_name": "Computer Science",
+      "scholarship_description": "A scholarship supporting undergraduate students in Computer Science. Full tuition coverage provided.",
+      "stipend": "1500 JPY per month",
+      "post_date": "2025-01-20",
+      "service_charge": "80 JPY",
+      "application_fees": "200 JPY"
+    },
+    {
+      "university_name": "Kyoto University",
+      "university_logo": "https://i.ibb.co/Yk3Z1Bc/Kyoto-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Kyoto",
+        "address": "Yoshida-honmachi, Sakyo-ku, Kyoto"
+      },
+      "application_deadline": "2025-06-30",
+      "subject_name": "Environmental Science",
+      "scholarship_description": "This scholarship helps undergraduate students pursuing Environmental Science studies.",
+      "stipend": "1000 JPY per month",
+      "post_date": "2025-01-18",
+      "service_charge": "50 JPY",
+      "application_fees": "100 JPY"
+    },
+    {
+      "university_name": "Osaka University",
+      "university_logo": "https://i.ibb.co/F7s0jLs/Osaka-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Osaka",
+        "address": "1-1 Yamadaoka, Suita, Osaka"
+      },
+      "application_deadline": "2025-08-01",
+      "subject_name": "Physics",
+      "scholarship_description": "Scholarship available for undergraduate students studying Physics. Tuition fees fully covered.",
+      "stipend": "1300 JPY per month",
+      "post_date": "2025-01-15",
+      "service_charge": "60 JPY",
+      "application_fees": "150 JPY"
+    },
+    {
+      "university_name": "Keio University",
+      "university_logo": "https://i.ibb.co/7J9WJH7/Keio-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "2-15-45 Mita, Minato, Tokyo"
+      },
+      "application_deadline": "2025-05-15",
+      "subject_name": "Business Administration",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Business Administration studies. Covers tuition fees.",
+      "stipend": "1100 JPY per month",
+      "post_date": "2025-01-10",
+      "service_charge": "65 JPY",
+      "application_fees": "120 JPY"
+    },
+    {
+      "university_name": "Hokkaido University",
+      "university_logo": "https://i.ibb.co/N6r1Vwb/Hokkaido-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Sapporo",
+        "address": "North 8, West 5, Sapporo"
+      },
+      "application_deadline": "2025-07-20",
+      "subject_name": "Biology",
+      "scholarship_description": "Support for undergraduate students studying Biology. Tuition fees fully covered.",
+      "stipend": "1000 JPY per month",
+      "post_date": "2025-01-12",
+      "service_charge": "55 JPY",
+      "application_fees": "140 JPY"
+    },
+    {
+      "university_name": "Hitotsubashi University",
+      "university_logo": "https://i.ibb.co/MZydB1f/Hitotsubashi-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "2-1 Naka, Kunitachi, Tokyo"
+      },
+      "application_deadline": "2025-06-10",
+      "subject_name": "Law",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Law. Covers all tuition fees.",
+      "stipend": "1400 JPY per month",
+      "post_date": "2025-01-22",
+      "service_charge": "70 JPY",
+      "application_fees": "130 JPY"
+    },
+    {
+      "university_name": "Wako University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Wako-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Saitama",
+        "address": "1-1 Wakoshi, Wako, Saitama"
+      },
+      "application_deadline": "2025-08-15",
+      "subject_name": "Psychology",
+      "scholarship_description": "A scholarship for undergraduate students studying Psychology. Tuition fees covered.",
+      "stipend": "1100 JPY per month",
+      "post_date": "2025-01-19",
+      "service_charge": "75 JPY",
+      "application_fees": "140 JPY"
+    },
+    {
+      "university_name": "Sophia University",
+      "university_logo": "https://i.ibb.co/sKn8jV4/Sophia-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "7-1 Kioicho, Chiyoda, Tokyo"
+      },
+      "application_deadline": "2025-05-30",
+      "subject_name": "International Relations",
+      "scholarship_description": "This scholarship supports undergraduate students in International Relations. Covers all tuition fees.",
+      "stipend": "1200 JPY per month",
+      "post_date": "2025-01-23",
+      "service_charge": "85 JPY",
+      "application_fees": "160 JPY"
+    },
+    {
+      "university_name": "Kyoto University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Kyoto-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Kyoto",
+        "address": "Kawaramachi, Kyoto"
+      },
+      "application_deadline": "2025-06-30",
+      "subject_name": "Biology",
+      "scholarship_description": "A scholarship for undergraduate students studying Biology. Full tuition coverage.",
+      "stipend": "1500 JPY per month",
+      "post_date": "2025-01-20",
+      "service_charge": "80 JPY",
+      "application_fees": "120 JPY"
+    },
+    {
+      "university_name": "University of Tokyo",
+      "university_logo": "https://i.ibb.co/Y2sDftg/University-of-Tokyo-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "7-3-1 Hongo, Bunkyo, Tokyo"
+      },
+      "application_deadline": "2025-07-10",
+      "subject_name": "Engineering",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Engineering studies. Covers tuition and living expenses.",
+      "stipend": "2000 JPY per month",
+      "post_date": "2025-01-21",
+      "service_charge": "90 JPY",
+      "application_fees": "150 JPY"
+    },
+    {
+      "university_name": "Osaka University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Osaka-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Osaka",
+        "address": "1-1 Yamadaoka, Suita, Osaka"
+      },
+      "application_deadline": "2025-05-25",
+      "subject_name": "Computer Science",
+      "scholarship_description": "A scholarship for students pursuing an undergraduate degree in Computer Science. Tuition fees are fully covered.",
+      "stipend": "1300 JPY per month",
+      "post_date": "2025-01-22",
+      "service_charge": "85 JPY",
+      "application_fees": "110 JPY"
+    },
+    {
+      "university_name": "Hosei University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Hosei-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "2-17-1 Fujimi, Chiyoda, Tokyo"
+      },
+      "application_deadline": "2025-04-30",
+      "subject_name": "Economics",
+      "scholarship_description": "A scholarship for undergraduate students studying Economics. Full tuition covered.",
+      "stipend": "1000 JPY per month",
+      "post_date": "2025-01-23",
+      "service_charge": "70 JPY",
+      "application_fees": "100 JPY"
+    },
+    {
+      "university_name": "Chuo University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Chuo-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "1-13-27 Kasuga, Bunkyo, Tokyo"
+      },
+      "application_deadline": "2025-08-01",
+      "subject_name": "Law",
+      "scholarship_description": "A scholarship for undergraduate Law students. Covers tuition fees and offers a stipend.",
+      "stipend": "1200 JPY per month",
+      "post_date": "2025-01-24",
+      "service_charge": "60 JPY",
+      "application_fees": "130 JPY"
+    },
+    {
+      "university_name": "Keio University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Keio-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "2-15-45 Mita, Minato, Tokyo"
+      },
+      "application_deadline": "2025-05-15",
+      "subject_name": "Medicine",
+      "scholarship_description": "A scholarship for undergraduate students studying Medicine. Full tuition and fees covered.",
+      "stipend": "2500 JPY per month",
+      "post_date": "2025-01-25",
+      "service_charge": "95 JPY",
+      "application_fees": "160 JPY"
+    },
+    {
+      "university_name": "Sophia University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Sophia-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "7-1 Kioicho, Chiyoda, Tokyo"
+      },
+      "application_deadline": "2025-07-01",
+      "subject_name": "International Relations",
+      "scholarship_description": "A scholarship for undergraduate students studying International Relations. Covers tuition and monthly stipend.",
+      "stipend": "900 JPY per month",
+      "post_date": "2025-01-26",
+      "service_charge": "85 JPY",
+      "application_fees": "140 JPY"
+    },
+    {
+      "university_name": "Tokyo University of Foreign Studies",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Tokyo-University-of-Foreign-Studies-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "3-11-1 Asahi-cho, Fuchu, Tokyo"
+      },
+      "application_deadline": "2025-09-15",
+      "subject_name": "Languages",
+      "scholarship_description": "A scholarship for undergraduate students studying languages and linguistics. Full tuition coverage.",
+      "stipend": "1100 JPY per month",
+      "post_date": "2025-01-27",
+      "service_charge": "75 JPY",
+      "application_fees": "120 JPY"
+    },
+    {
+      "university_name": "Tama Art University",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Tama-Art-University-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Tokyo",
+        "address": "1-8-1, Koganei, Tokyo"
+      },
+      "application_deadline": "2025-06-05",
+      "subject_name": "Fine Arts",
+      "scholarship_description": "A scholarship for undergraduate students pursuing Fine Arts. Full tuition covered, with an allowance for materials.",
+      "stipend": "1300 JPY per month",
+      "post_date": "2025-01-28",
+      "service_charge": "65 JPY",
+      "application_fees": "110 JPY"
+    },
+    {
+      "university_name": "Shibaura Institute of Technology",
+      "university_logo": "https://i.ibb.co/Y2sDftg/Shibaura-Institute-of-Technology-Logo.webp",
+      "scholarship_category": "Undergraduate",
+      "university_location": {
+        "country": "Japan",
+        "city": "Saitama",
+        "address": "3-7-5, Toyosu, Saitama"
+      },
+      "application_deadline": "2025-07-25",
+      "subject_name": "Architecture",
+      "scholarship_description": "A scholarship for undergraduate students studying Architecture. Covers full tuition and fees.",
+      "stipend": "1400 JPY per month",
+      "post_date": "2025-01-29",
+      "service_charge": "80 JPY",
+      "application_fees": "130 JPY"
+    }
+  ]
+
+
+
+
